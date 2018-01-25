@@ -1,0 +1,41 @@
+#grey {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+.row {
+  height: 120px;
+  width: 100%;
+}
+#blue {
+  background: #497ecc;
+}
+#teal {
+  background: #94eeda;
+}
+
+#green {
+  background: #97e697;
+}
+
+#yellow {
+  background: yellow;
+}
+#white {
+  margin-top: 120px;
+  margin-bottom: 100px;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  margin: 50px;
+  font-family: sans-serif;
+  color: rgb(110, 109, 109);
+}
+#square {
+  width: 90px;
+  height: 90px;
+  background: #497ecc;
+  margin-top: 10px;
+  margin-left: 10px;
+}

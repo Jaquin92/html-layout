@@ -1,0 +1,21 @@
+body {
+  background: lightgray;
+}
+header {
+  background: #302626;
+  height: 160px;
+  width: 100%;
+}
+#bod {
+  background: white;
+  width: 800px;
+  height: 900px;
+  margin-left: 225px;
+  text-align: center;
+}
+footer {
+  background: #302626;
+  width: 800px;
+  height: 80px;
+  margin-left: 225px;
+}
